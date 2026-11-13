@@ -1,6 +1,18 @@
 {
  "about": "RimRunnerMaryland 2026-27 finals ledger, written by scripts/update_scores.py. Keyed by MaxPreps contest id. homeMp/awayMp are MaxPreps team ids. state: applied | unlisted (one team not in our list; counts for records only) | pending (final between listed teams with no scheduled game yet; awaiting team-page check) | ignored.",
  "finals": {
+  "8289ece8-7522-4de7-8860-0858c6d8b2c1": {
+   "awayMp": "90b7c564-8f35-4f57-b3a2-8908d142f3af",
+   "awayScore": 71,
+   "date": "2026-11-12",
+   "forfeit": false,
+   "homeMp": "807830da-d7f5-4ff9-aed9-160f4345310f",
+   "homeScore": 26,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "unlisted",
+   "winner": "away"
+  },
   "fdd1940c-1d1b-4c9d-bce2-81a7903d9c8b": {
    "awayMp": "d7db4453-dcee-4afc-a685-288ff031ea1e",
    "awayScore": 22,
